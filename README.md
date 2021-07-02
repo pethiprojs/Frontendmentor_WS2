@@ -1,1 +1,1 @@
-# Frontendmentor_WS1
+# Frontendmentor_WS2
